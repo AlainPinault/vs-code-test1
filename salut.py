@@ -9,3 +9,4 @@ def greet(str):
 
 
 print(greet("me"))
+print(greet("me"))
